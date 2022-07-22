@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Fred",
+        "age": 29,
+        "occupation": "Pedicab driver"
+    },
+    {
+        "name": "Suzy",
+        "age": 18,
+        "occupation": "Student"
+    },
+    {
+        "name": "Jamal",
+        "age": 44,
+        "occupation": "Artist"
+    },
+    {
+        "name": "Cathy",
+        "age": 31,
+        "occupation": "Nurse"
+    },
+    {
+        "name": "George",
+        "age": 22,
+        "occupation": "Cook"
+    },
+    {
+        "name": "Omar",
+        "age": 58,
+        "occupation": "Chief Technical Officer"
+    },
+    {
+        "name": "Jameel",
+        "age": 98,
+        "occupation": "Technical Officer"
+    }
+]
