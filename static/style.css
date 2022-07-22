@@ -5,8 +5,14 @@
 }
 
 body {
-  background: #2b2a2a;
-  color: #e7e3e3;
   text-align: center;
   padding-top: 1rem;
+  font-family: sans-serif;
+}
+
+.date {
+  display: inline-block;
+  background: #2b2a2a;
+  color: #e7e3e3;
+  padding: 0.5rem 1rem;
 }
