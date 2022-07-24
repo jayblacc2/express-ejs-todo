@@ -14,8 +14,16 @@
     <div class="date">
       <h1>Today is: <%=today%></h1>
     </div>
-    <form method="post">
-      <input type="text" name="todo" id="todo" />
+    <ul>
+      <% for(item of listItems) { %>
+      <li><%= item %></li>
+      <% } %>
+    </ul>
+
+    <form action="/" method="post">
+      <input type="text" name="newItem" id="todo" size="5" />
+      <button type="submit" name="button">Add</button>
     </form>
+    <script src="app.js"></script>
   </body>
 </html>
